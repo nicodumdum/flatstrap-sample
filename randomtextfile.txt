@@ -1,1 +1,2 @@
 this text is added in the new branch
+second text added in the new branch
