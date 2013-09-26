@@ -1,6 +1,2 @@
 this text is added in the new branch
-<<<<<<< HEAD
 second text added in the new branch
-=======
-this text is added in the master branch
->>>>>>> origin/master
